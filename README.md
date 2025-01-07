@@ -72,7 +72,7 @@ Give a ⭐️ if you like this project!
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
 - Name : [Rajat Yadav](https://https://www.linkedin.com/in/rajat-y-089238265/)
-- Email: [rajatyadav5641@gmail.com](mailto:rajatyadav5641@gmail.com)
+- Email : [rajatyadav5641@gmail.com](mailto:rajatyadav5641@gmail.com)
 
 
 ## 📝 License 
