@@ -45,7 +45,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link]([https://rajat0063.github.io/To-Do-List/](https://to-do-list-yr.vercel.app/))
+- [Live Demo Link](https://to-do-list-yr.vercel.app/)
 
 ## Getting Started
 
