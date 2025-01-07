@@ -1,39 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To-Do List</title>
+    <title>To Do List</title>
+    <link rel="stylesheet" href="style.css">
 
-    <!-- Linking the CSS File -->
-     <link rel="stylesheet" href="style.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body>
-    
+
+    <!-- **** Background Circles Start **** -->
+    <div class="bg-circles">
+        <div class="circle-1"></div>
+        <div class="circle-2"></div>
+        <div class="circle-3"></div>
+        <div class="circle-4"></div>
+    </div>
+
+    <!-- **** List Container Start Here **** -->
+
     <div class="container">
-        <div class="stats-container">
-            <div class="details">
-                <h1>Todo App</h1>
-                <p>Keep it up!</p>
-                <div id="progressBar">
-                    <div id="progress"></div>
-                </div>
+        <div class="todo-app">
+            <h2><img src="/assets/list1.png" alt="something">To-Do List </h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your task ...">
+                <button onclick="addTask()" id="add">Add</button>
             </div>
-            <div class="stats-numbers">
-                <div id="numbers">2 / 3</div>
-            </div>
+            <ul id="list-container">
+            </ul>
         </div>
-
-        <form action="">
-            <input id="taskInput" type="text" placeholder="Write your task">
-            <button id="submit" type="submit">+</button>
-        </form>
-
-        <ul id="task-list"></ul>
     </div>
 
     <script src="script.js"></script>
-
 </body>
+
 </html>
