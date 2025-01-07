@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img title="To-Do List" src="images/list.png" alt="NETFLIX Logo" width="200" />
+  <img title="To-Do List" src="/assets/list.png" alt="ToDo Logo" width="200" />
   <br>
   To-Do List
 </h1>
