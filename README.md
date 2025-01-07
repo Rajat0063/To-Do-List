@@ -45,7 +45,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://github.com/keerti1924/To-Do-List.git)
+- [Live Demo Link](https://rajat0063.github.io/To-Do-List/)
 
 ## Getting Started
 
@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rajat0063/To-Do List.git
+git clone https://github.com/Rajat0063/To-Do-List.git
 ```
 
 2. Open the project in your preferred code editor.
