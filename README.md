@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img title="To-Do List" src="/assets/list.png" alt="ToDo Logo" width="200" />
   <br>
