@@ -19,7 +19,7 @@
 
 # 📖 To Do List <a name="about-project"></a>
 
-A tool that helps to organize your day. To-do list is a set of tasks that each render on a separate line with a clickable checkbox. You can select or deselect the checkboxes to mark the tasks as complete or incomplete.
+A tool that helps to organize your day. The to-do list is a set of tasks that each render on a separate line with a clickable checkbox. You can select or deselect the checkboxes to mark the tasks as complete or incomplete.
 
 
 ![screenshot](/assets/todolist.png)
@@ -37,9 +37,9 @@ I have built this project using the following tools & techniques:
 ### Key Features 
 
 - Add a new task
-- Delete single task
+- Delete a single task
 - Delete completed tasks
-- Mark task as completed / uncompleted
+- Mark the task as completed / uncompleted
 
 
 ## 🚀 Live Demo 
@@ -58,7 +58,7 @@ git clone https://github.com/Rajat0063/To-Do-List.git
 
 2. Open the project in your preferred code editor.
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
+3. Launch the `index.html` file in a web browser to view the Home page.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
